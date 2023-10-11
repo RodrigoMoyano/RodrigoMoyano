@@ -1,5 +1,5 @@
 # Hola 👋
-🙋‍♂️ ¡Gracias por visitar mi perfil de GitHub!
+
 
 Mi nombre es Rodrigo, Vivo en Argentina y soy estudiante de Programacion.
 
@@ -23,7 +23,8 @@ Comence de manera autodidacta y actualmente me encuentro realizando la Tecnicatu
 ### 📫 &nbsp;Mis Contactos
 <a href="[https://discord.gg/.roy_08]"><img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/></a> <a href="[https://www.instagram.com/_hrugved_/](https://instagram.com/Roy.Moyano)"><img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/></a>
 
+---
 
 [![](https://visitcount.itsvg.in/api?id=RodrigoMoyano&icon=0&color=0)](https://visitcount.itsvg.in)
-
+🙋‍♂️ ¡Gracias por visitar mi perfil de GitHub!
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
