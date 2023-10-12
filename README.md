@@ -17,7 +17,7 @@ Comence de manera autodidacta y actualmente me encuentro realizando la Tecnicatu
 
 ---
 ### 📫 &nbsp;Mis Contactos
-<a href="[https://discord.gg/.roy_08]"><img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/></a> <a href="[https://www.instagram.com/_hrugved_/](https://instagram.com/Roy.Moyano)"><img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/></a>
+<a href="[https://discord.gg/.roy_08]"><img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/></a> <a href="(https://instagram.com/Roy.Moyano)"><img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/></a>
 
 ---
 
